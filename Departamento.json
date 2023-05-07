@@ -2,232 +2,232 @@
  {
   "Departamento": "Amazonas ",
   "Region_SGR": "Centro sur",
-  "Promedio de Eficacia": 29.74673,
-  "Promedio de Eficiencia": 34.123333333333335,
-  "Cuenta Municipios": 2
+  "Promedio_de_Eficacia": 29.74673,
+  "Promedio_de_Eficiencia": 34.123333333333335,
+  "Cuenta_Municipios": 2
  },
  {
   "Departamento": "Antioquia ",
   "Region_SGR": "Eje cafetero",
-  "Promedio de Eficacia": 57.35223448000004,
-  "Promedio de Eficiencia": 56.39717333333335,
-  "Cuenta Municipios": 125
+  "Promedio_de_Eficacia": 57.35223448000004,
+  "Promedio_de_Eficiencia": 56.39717333333335,
+  "Cuenta_Municipios": 125
  },
  {
   "Departamento": "Arauca ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 46.152345714285715,
-  "Promedio de Eficiencia": 58.43404761904761,
-  "Cuenta Municipios": 7
+  "Promedio_de_Eficacia": 46.152345714285715,
+  "Promedio_de_Eficiencia": 58.43404761904761,
+  "Cuenta_Municipios": 7
  },
  {
   "Departamento": "Archipiélago de San Andrés ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 49.37103,
-  "Promedio de Eficiencia": 36.681666666666665,
-  "Cuenta Municipios": 1
+  "Promedio_de_Eficacia": 49.37103,
+  "Promedio_de_Eficiencia": 36.681666666666665,
+  "Cuenta_Municipios": 1
  },
  {
   "Departamento": "Atlántico ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 78.09978208333334,
-  "Promedio de Eficiencia": 60.66652777777778,
-  "Cuenta Municipios": 24
+  "Promedio_de_Eficacia": 78.09978208333334,
+  "Promedio_de_Eficiencia": 60.66652777777778,
+  "Cuenta_Municipios": 24
  },
  {
   "Departamento": "Bogotá, D.C. ",
   "Region_SGR": "Centro Oriente",
-  "Promedio de Eficacia": 46.84005,
-  "Promedio de Eficiencia": 97.62833333333333,
-  "Cuenta Municipios": 1
+  "Promedio_de_Eficacia": 46.84005,
+  "Promedio_de_Eficiencia": 97.62833333333333,
+  "Cuenta_Municipios": 1
  },
  {
   "Departamento": "Bolívar ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 14.794032222222222,
-  "Promedio de Eficiencia": 43.38966666666667,
-  "Cuenta Municipios": 45
+  "Promedio_de_Eficacia": 14.794032222222222,
+  "Promedio_de_Eficiencia": 43.38966666666667,
+  "Cuenta_Municipios": 45
  },
  {
   "Departamento": "Boyacá ",
   "Region_SGR": "Centro Oriente",
-  "Promedio de Eficacia": 52.63871756097561,
-  "Promedio de Eficiencia": 52.49054200542004,
-  "Cuenta Municipios": 123
+  "Promedio_de_Eficacia": 52.63871756097561,
+  "Promedio_de_Eficiencia": 52.49054200542004,
+  "Cuenta_Municipios": 123
  },
  {
   "Departamento": "Caldas ",
   "Region_SGR": "Eje cafetero",
-  "Promedio de Eficacia": 41.672481851851856,
-  "Promedio de Eficiencia": 54.423333333333346,
-  "Cuenta Municipios": 27
+  "Promedio_de_Eficacia": 41.672481851851856,
+  "Promedio_de_Eficiencia": 54.423333333333346,
+  "Cuenta_Municipios": 27
  },
  {
   "Departamento": "Caquetá ",
   "Region_SGR": "Centro sur",
-  "Promedio de Eficacia": 66.30359312499999,
-  "Promedio de Eficiencia": 55.201145833333335,
-  "Cuenta Municipios": 16
+  "Promedio_de_Eficacia": 66.30359312499999,
+  "Promedio_de_Eficiencia": 55.201145833333335,
+  "Cuenta_Municipios": 16
  },
  {
   "Departamento": "Casanare ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 40.62532421052632,
-  "Promedio de Eficiencia": 51.09535087719297,
-  "Cuenta Municipios": 19
+  "Promedio_de_Eficacia": 40.62532421052632,
+  "Promedio_de_Eficiencia": 51.09535087719297,
+  "Cuenta_Municipios": 19
  },
  {
   "Departamento": "Cauca ",
   "Region_SGR": "Pacífico",
-  "Promedio de Eficacia": 53.544772142857134,
-  "Promedio de Eficiencia": 51.68293650793651,
-  "Cuenta Municipios": 42
+  "Promedio_de_Eficacia": 53.544772142857134,
+  "Promedio_de_Eficiencia": 51.68293650793651,
+  "Cuenta_Municipios": 42
  },
  {
   "Departamento": "Cesar ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 30.929995199999997,
-  "Promedio de Eficiencia": 47.60193333333333,
-  "Cuenta Municipios": 25
+  "Promedio_de_Eficacia": 30.929995199999997,
+  "Promedio_de_Eficiencia": 47.60193333333333,
+  "Cuenta_Municipios": 25
  },
  {
   "Departamento": "Chocó ",
   "Region_SGR": "Pacífico",
-  "Promedio de Eficacia": 58.00787033333334,
-  "Promedio de Eficiencia": 33.82494444444445,
-  "Cuenta Municipios": 30
+  "Promedio_de_Eficacia": 58.00787033333334,
+  "Promedio_de_Eficiencia": 33.82494444444445,
+  "Cuenta_Municipios": 30
  },
  {
   "Departamento": "Córdoba ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 0,
-  "Promedio de Eficiencia": 39.635055555555546,
-  "Cuenta Municipios": 30
+  "Promedio_de_Eficacia": 0,
+  "Promedio_de_Eficiencia": 39.635055555555546,
+  "Cuenta_Municipios": 30
  },
  {
   "Departamento": "Cundinamarca ",
   "Region_SGR": "Centro Oriente",
-  "Promedio de Eficacia": 77.69604112068964,
-  "Promedio de Eficiencia": 55.747902298850576,
-  "Cuenta Municipios": 116
+  "Promedio_de_Eficacia": 77.69604112068964,
+  "Promedio_de_Eficiencia": 55.747902298850576,
+  "Cuenta_Municipios": 116
  },
  {
   "Departamento": "Guainía ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 0,
-  "Promedio de Eficiencia": 31.790000000000003,
-  "Cuenta Municipios": 1
+  "Promedio_de_Eficacia": 0,
+  "Promedio_de_Eficiencia": 31.790000000000003,
+  "Cuenta_Municipios": 1
  },
  {
   "Departamento": "Guaviare ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 63.4037875,
-  "Promedio de Eficiencia": 34.63541666666667,
-  "Cuenta Municipios": 4
+  "Promedio_de_Eficacia": 63.4037875,
+  "Promedio_de_Eficiencia": 34.63541666666667,
+  "Cuenta_Municipios": 4
  },
  {
   "Departamento": "Huila ",
   "Region_SGR": "Centro sur",
-  "Promedio de Eficacia": 81.71516540540537,
-  "Promedio de Eficiencia": 54.321801801801804,
-  "Cuenta Municipios": 37
+  "Promedio_de_Eficacia": 81.71516540540537,
+  "Promedio_de_Eficiencia": 54.321801801801804,
+  "Cuenta_Municipios": 37
  },
  {
   "Departamento": "La Guajira ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 51.001545333333326,
-  "Promedio de Eficiencia": 50.80766666666667,
-  "Cuenta Municipios": 15
+  "Promedio_de_Eficacia": 51.001545333333326,
+  "Promedio_de_Eficiencia": 50.80766666666667,
+  "Cuenta_Municipios": 15
  },
  {
   "Departamento": "Magdalena ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 18.556918666666668,
-  "Promedio de Eficiencia": 44.97411111111112,
-  "Cuenta Municipios": 30
+  "Promedio_de_Eficacia": 18.556918666666668,
+  "Promedio_de_Eficiencia": 44.97411111111112,
+  "Cuenta_Municipios": 30
  },
  {
   "Departamento": "Meta ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 60.14338827586207,
-  "Promedio de Eficiencia": 48.801896551724134,
-  "Cuenta Municipios": 29
+  "Promedio_de_Eficacia": 60.14338827586207,
+  "Promedio_de_Eficiencia": 48.801896551724134,
+  "Cuenta_Municipios": 29
  },
  {
   "Departamento": "Nariño ",
   "Region_SGR": "Pacífico",
-  "Promedio de Eficacia": 61.440840937500006,
-  "Promedio de Eficiencia": 52.20250000000001,
-  "Cuenta Municipios": 64
+  "Promedio_de_Eficacia": 61.440840937500006,
+  "Promedio_de_Eficiencia": 52.20250000000001,
+  "Cuenta_Municipios": 64
  },
  {
   "Departamento": "Norte de Santander ",
   "Region_SGR": "Centro Oriente",
-  "Promedio de Eficacia": 64.78492125000001,
-  "Promedio de Eficiencia": 55.56670833333334,
-  "Cuenta Municipios": 40
+  "Promedio_de_Eficacia": 64.78492125000001,
+  "Promedio_de_Eficiencia": 55.56670833333334,
+  "Cuenta_Municipios": 40
  },
  {
   "Departamento": "Putumayo ",
   "Region_SGR": "Centro sur",
-  "Promedio de Eficacia": 22.28631076923077,
-  "Promedio de Eficiencia": 37.984487179487175,
-  "Cuenta Municipios": 13
+  "Promedio_de_Eficacia": 22.28631076923077,
+  "Promedio_de_Eficiencia": 37.984487179487175,
+  "Cuenta_Municipios": 13
  },
  {
   "Departamento": "Quindio ",
   "Region_SGR": "Eje cafetero",
-  "Promedio de Eficacia": 69.07248416666665,
-  "Promedio de Eficiencia": 67.31777777777779,
-  "Cuenta Municipios": 12
+  "Promedio_de_Eficacia": 69.07248416666665,
+  "Promedio_de_Eficiencia": 67.31777777777779,
+  "Cuenta_Municipios": 12
  },
  {
   "Departamento": "Risaralda ",
   "Region_SGR": "Eje cafetero",
-  "Promedio de Eficacia": 76.50071785714286,
-  "Promedio de Eficiencia": 61.76380952380952,
-  "Cuenta Municipios": 14
+  "Promedio_de_Eficacia": 76.50071785714286,
+  "Promedio_de_Eficiencia": 61.76380952380952,
+  "Cuenta_Municipios": 14
  },
  {
   "Departamento": "Santander ",
   "Region_SGR": "Centro Oriente",
-  "Promedio de Eficacia": 57.47766252873563,
-  "Promedio de Eficiencia": 52.346111111111135,
-  "Cuenta Municipios": 87
+  "Promedio_de_Eficacia": 57.47766252873563,
+  "Promedio_de_Eficiencia": 52.346111111111135,
+  "Cuenta_Municipios": 87
  },
  {
   "Departamento": "Sucre ",
   "Region_SGR": "Caribe",
-  "Promedio de Eficacia": 21.59762423076923,
-  "Promedio de Eficiencia": 46.64628205128206,
-  "Cuenta Municipios": 26
+  "Promedio_de_Eficacia": 21.59762423076923,
+  "Promedio_de_Eficiencia": 46.64628205128206,
+  "Cuenta_Municipios": 26
  },
  {
   "Departamento": "Tolima ",
   "Region_SGR": "Centro sur",
-  "Promedio de Eficacia": 65.80106659574469,
-  "Promedio de Eficiencia": 51.87056737588652,
-  "Cuenta Municipios": 47
+  "Promedio_de_Eficacia": 65.80106659574469,
+  "Promedio_de_Eficiencia": 51.87056737588652,
+  "Cuenta_Municipios": 47
  },
  {
   "Departamento": "Valle del Cauca ",
   "Region_SGR": "Pacífico",
-  "Promedio de Eficacia": 41.21430047619047,
-  "Promedio de Eficiencia": 62.38432539682539,
-  "Cuenta Municipios": 42
+  "Promedio_de_Eficacia": 41.21430047619047,
+  "Promedio_de_Eficiencia": 62.38432539682539,
+  "Cuenta_Municipios": 42
  },
  {
   "Departamento": "Vaupés ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 11.49253,
-  "Promedio de Eficiencia": 32.62777777777777,
-  "Cuenta Municipios": 3
+  "Promedio_de_Eficacia": 11.49253,
+  "Promedio_de_Eficiencia": 32.62777777777777,
+  "Cuenta_Municipios": 3
  },
  {
   "Departamento": "Vichada ",
   "Region_SGR": "Llano",
-  "Promedio de Eficacia": 0,
-  "Promedio de Eficiencia": 27.685416666666665,
-  "Cuenta Municipios": 4
+  "Promedio_de_Eficacia": 0,
+  "Promedio_de_Eficiencia": 27.685416666666665,
+  "Cuenta_Municipios": 4
  }
 ]
